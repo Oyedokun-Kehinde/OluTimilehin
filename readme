@@ -1,0 +1,98 @@
+
+```markdown
+# OluBabs Portfolio Website
+
+This is the official portfolio website for OluBabs, a Junior Data Analyst based in Akure, Ondo State. The website showcases OluBabs's experience, skills, recent projects, and the services he offers, providing potential clients and collaborators with an engaging overview of his data analytics expertise and capabilities.
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup and Installation](#setup-and-installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contact](#contact)
+- [License](#license)
+
+---
+
+## Project Overview
+
+The OluBabs portfolio website is designed to highlight his professional profile as a data analyst, emphasizing his technical skills, past projects, and the services he provides. It provides a visually appealing, responsive, and user-friendly experience, enabling visitors to gain insight into his background, expertise, and the process he follows to deliver quality analytics solutions.
+
+## Features
+
+- **Home Page:** A hero section introducing OluBabs with a brief professional summary and call-to-action buttons.
+- **About Me:** A section detailing OluBabs's academic background, professional journey, and personal mission.
+- **Services:** Highlights OluBabs’s key offerings, including data cleaning, visualization, statistical analysis, and business intelligence reporting.
+- **Portfolio:** Showcases recent projects with brief descriptions, images, and links to project details.
+- **Contact:** A contact form and social media links to connect with OluBabs for inquiries or collaborations.
+- **Responsive Design:** Optimized for viewing on desktops, tablets, and mobile devices.
+
+## Technologies Used
+
+- **HTML5** – For structuring the website content.
+- **CSS3** – For styling and responsive design, using Flexbox and Grid layouts.
+- **JavaScript** – For interactive elements and form validation.
+- **Bootstrap** – For faster, responsive design elements.
+- **FontAwesome** – For icons.
+- **Git & GitHub** – For version control and project hosting.
+
+## Setup and Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Oyedokun-Kehinde/Timi.git
+   ```
+
+2. **Navigate to the project folder:**
+   ```bash
+   cd olubabs-portfolio
+   ```
+
+3. **Open the project in your preferred code editor (e.g., VS Code):**
+   ```bash
+   code .
+   ```
+
+4. **Open `index.html` in a web browser to view the website.**
+
+5. **Optional:** Use a local development server (such as Live Server in VS Code) to enable hot reloading during development.
+
+## Usage
+
+This portfolio website is designed to:
+- Present OluBabs’s skills and expertise in data analysis.
+- Allow potential clients or employers to view his recent work and get in touch.
+- Serve as a digital business card, showcasing his background and contact information.
+
+### Customizing the Content
+
+1. **Edit `index.html`** to adjust text content as needed.
+2. **Customize CSS** in `styles.css` for visual changes.
+3. **Modify JavaScript** in `scripts.js` to change functionality.
+
+## Screenshots
+
+Add screenshots here to give users a preview of the website's design and features.
+
+---
+
+## Contact
+
+For any inquiries or potential collaboration opportunities, please reach out via:
+
+- **Email:** theolubabs@gmail.com
+- **LinkedIn:** [linkedin.com/in/Oyedokun-Kehinde](https://linkedin.com/in/Oyedokun-Kehinde)
+- **Twitter:** [@oyedokunken](https://twitter.com/oyedokunken)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
+
+---
+
+This README provides comprehensive documentation, including an overview of OluBabs's website, setup instructions, and usage guidelines. Let me know if you'd like to add or adjust any part!
